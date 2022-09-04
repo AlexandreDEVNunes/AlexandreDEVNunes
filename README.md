@@ -31,14 +31,4 @@
   <a href="https://www.linkedin.com/in/alexandre-nunes-57a260160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-</div>
 
-
-<div align="left">
-  <a href="https://github.com/mcmanaman2510">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcmanaman2510&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<div style="display: inline_block"><br>  
-  
- 
-<div>
