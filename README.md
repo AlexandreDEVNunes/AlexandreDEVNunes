@@ -18,11 +18,7 @@
 👨‍🎓 Aluno de DEV Full Stack na Digital College Fortaleza - Ce 
 
 
-
-
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcmanaman2510&show_icons=true&theme=radical)
 
  
  
