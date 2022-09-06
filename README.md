@@ -1,5 +1,6 @@
-## Oi! eu sou o Alexandre Nunes <img src="https://c.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Giftub GIFs | Tenor" data-noaft="1" style="width: 40px; height: 40px; margin: 0px;"> 
-<img src="https://cdn1.mundodastribos.com/477485-Mensagens-engra%C3%A7adas-para-facebook-04.jpg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Mensagens engraçadas para facebook: fotos" data-noaft="1" style="width: px; height: px; margin: 0px;">        
+## Olá! eu sou o Alexandre Nunes <img src="https://c.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Giftub GIFs | Tenor" data-noaft="1" style="width: 40px; height: 40px; margin: 0px;"> 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>    
 
 
 
