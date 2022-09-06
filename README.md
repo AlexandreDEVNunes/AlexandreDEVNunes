@@ -1,5 +1,7 @@
-## Oi! eu sou o Alexandre Nunes <img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=c" height="40" width="40" align="center"/>&nbsp;<br/> 
+## Oi! eu sou o Alexandre Nunes <img src="https://c.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Giftub GIFs | Tenor" data-noaft="1" style="width: 40px; height: 40px; margin: 0px;"> 
 <img src="https://cdn1.mundodastribos.com/477485-Mensagens-engra%C3%A7adas-para-facebook-04.jpg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Mensagens engraçadas para facebook: fotos" data-noaft="1" style="width: px; height: px; margin: 0px;">        
+
+
 
 
 👨‍💻Trabalho com Logística de Valores </br> 
