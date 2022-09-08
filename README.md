@@ -31,4 +31,4 @@
   <a href="https://www.linkedin.com/in/alexandre-nunes-57a260160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-
+<img src="https://c.tenor.com/3pREvRRp7gwAAAAC/brinks-truck-cash.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Brinks Truck GIFs | Tenor" data-noaft="1" style="width: 327px; height: 232.59px; margin: 0px;">
