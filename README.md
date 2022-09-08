@@ -19,8 +19,8 @@
 🎓 Graduado em Logística e Processos Gerenciais pela Estácio FIC  - CE. </br>
 🎓 MBA em Gerenciamento de Projetos PMO pela Faculdade Venda Nova Imigrante - Faveni - ES.</br>
 👨‍🎓 Em capacitação MBA em Logística Empresarial pela Faculdade de Minas Gerais - Facuminas - MG. </br>
-👨‍🎓 Aluno de DEV Full Stack na Digital College Fortaleza - Ce 
-
+👨‍🎓 Aluno de DEV Full Stack na Digital College Fortaleza - Ce </br>
+📘Recomendo trilogia da cruz 1,2,3.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcmanaman2510&show_icons=true&theme=algolia)
 
