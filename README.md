@@ -18,7 +18,7 @@
 ✈🚛💲 Sou Controlador de Operações Logistícas na Brink´s Segurança e Transorte de Valores Ltda. </br>
 📘Recomendo trilogia ação da cruz.(Pr.José Rodrigues).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcmanaman2510&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreDEVNunes&show_icons=true&theme=algolia)
 
  
  
